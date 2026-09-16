@@ -78,5 +78,5 @@ $ python3 unittest -m tests/test_console.py
 
 ## Author :black_nib:
 
-* **Christian Ishimwe Ntwali** <[Christia3](https://github.com/Christia3)> <c.ishimwent@alustudent.com>
-* **Gisa Rwema** <[Rwema01](https://github.com/Rwema01)> <r.gisa@alustudent.com>
+* **Divin manzi** <[francomanzi](https://github.com/francomanzi)> <d.manzi1@alustudent.com>
+* **umutesi maureen** <[umaureen](https://github.com/umaureen)> <u.maureen@alustudent.com>
